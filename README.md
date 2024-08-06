@@ -36,7 +36,7 @@ qt6-5compat qt6-declarative qt6-svg sddm
 
     ```sh
     echo "[Theme]
-    Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
+    Current=nordddm" | sudo tee /etc/sddm.conf
     ```
 
 ### Credits
