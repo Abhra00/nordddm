@@ -10,10 +10,10 @@ A theme for the [SDDM login manager](https://github.com/sddm/sddm).
 You can easily change how it looks in **[config](./theme.conf)**. 
 Here are some examples:
 
-![Preview](./Previews/preview1.png)
-![Preview](./Previews/preview2.png)
-![Preview](./Previews/preview3.png)
-![Preview](./Previews/preview4.png)
+![Preview](./Previews/Preview1.png)
+![Preview](./Previews/Preview2.png)
+![Preview](./Previews/Preview3.png)
+![Preview](./Previews/Preview4.png)
 
 ### Dependencies
 
